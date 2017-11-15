@@ -1,0 +1,2 @@
+# ARBORcoin
+CryptoNote coin
